@@ -1,10 +1,8 @@
 ---
 layout: home
 list_title: Read Our Latest Posts
-title: "Sazs' Cricket Blog"
+title: ''
 ---
-
-# Sazs' Cricket Blog
 
 Welcome to Sazs' Cricket Blog!
 
