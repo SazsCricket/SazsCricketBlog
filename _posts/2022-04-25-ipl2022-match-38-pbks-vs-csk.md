@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "IPL 2022 - Match 38 - PBKS vs CSK"
-date:   <%= Time.now.strftime('%Y-%m-%d %H:%M:%S %z') %>
 ---
 
 Today's game will see two teams which have gone through very contrasting ways to reach here. The PBKS started the season pretty well but gradually went into a slump. CSK, on the other hand, started their campaign with four successive defeats before gaining some mojo back in the last three games. Moreover,  it won't be wrong to say the momentum is with CSK with the finish CSK had in the previous match against their arch-rivals. However, PBKS, with their mantra for this season, "All out attack", can take down any team on their day. Both the teams have a lot at stake depending on today's result; therefore, we can be sure about witnessing a great fight between the two.
