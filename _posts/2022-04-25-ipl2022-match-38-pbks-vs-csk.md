@@ -25,4 +25,4 @@ Probable XI PBKS – Mayank Agarwal (c), Shikar Dhawan, Johnny Bairstow, Bhanuka
 
 Probable XI CSK – Ruturaj Gaikwad, Robin Uthappa, Mitchell Santner, Ambati Rayudu, Shivam Dube, Ravindra Jadeja (c), MS Dhoni (wk), Dwaine Pretorius, Dwayne Bravo, Maheesh Theekshana, Mukesh Choudhary.
 
-<h3> &hyphen;{{ page.author }}<\h3>
+<h5> &hyphen;{{ page.author }}</h5>
